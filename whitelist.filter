@@ -1,3 +1,5 @@
+#Facebook mobile Whitelisting
+m.facebook.com
 #Microsoft Whitelisting
 login.live.com
 #Kodi Whitelisting
@@ -6,7 +8,6 @@ msftncsi.com
 spclient.wg.spotify.com
 #Google Server Whitelisting
 storage.googleapis.com
-goo.gl
 clients2.google.com
 clients3.google.com
 clients4.google.com
