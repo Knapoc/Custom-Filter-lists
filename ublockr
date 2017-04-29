@@ -1,6 +1,6 @@
 #!/bin/sh
 # ublockr
-Revision=5
+Revision=6
 # Licensed under GPL 3.0,
 # Author: Toast, Jacob Salmela (Pi-Hole)
 # Contributers: mrchow
